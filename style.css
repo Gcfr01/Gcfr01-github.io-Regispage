@@ -3,8 +3,6 @@ body{
     background-image: url("img/bg-intro-mobile.png");
     font-family: 'Poppins', sans-serif;
 }
-
-
 }
 .head{
     color: #fff;
@@ -15,7 +13,6 @@ body{
 .head h1{
 	font-weight: 2000;
 
-	
 }
 .head p{
 	font-size: 16px;
